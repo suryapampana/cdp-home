@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Patrick+Hand&family=Varela+Round&display=swap');
+
+ .sidenav {
+    box-shadow: 0 0 3px 0 rgba(0,0,0,.6);
+} 
+
+.font{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
